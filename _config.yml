@@ -1,0 +1,28 @@
+name: hract
+favicon: null
+layout_spectrum: 0.16493738209828734
+typography_spectrum: 0.828028870979324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2133142314851284
+  lightness: 0.07390365214087069
+  saturation: 0.4453157875686884
+  rhythmicContrast: 0.004704589489847422
+purpose: []
